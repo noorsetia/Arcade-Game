@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎮 Noor Developer Arcade — Neon Edition
 
 > **Level up your brain. Beat your records. Enter the neon arena.**
@@ -230,3 +231,21 @@ Choose and add an appropriate open-source license before distributing this proje
 ---
 
 ⭐ **Enjoy the arcade? Give the repository a star and challenge yourself to beat your personal best!**
+=======
+# Noor Developer Arcade — Neon Edition
+
+A React arcade featuring 15 mini games, built with JavaScript, React, and Vite.
+
+## Run locally
+
+Requirements: Node.js 20.19+ or 22.12+.
+
+```sh
+npm install
+npm run dev
+```
+
+Open the local URL printed by Vite. To create a production build, run `npm run build`.
+
+The React application lives in `src/`; all app and backend source files use JavaScript (`.js` or `.jsx`).
+>>>>>>> 7610f1f (Initial commit)

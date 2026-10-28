@@ -1,0 +1,6 @@
+{
+  "name": "Noor Developer Arcade — Neon Edition",
+  "description": "An ultra-interactive developer arcade playground featuring 8 polished mini-games with fluid gesture controls, vibrant glowing gradients, silky animations, tactile sound synthesis, and real-time skill stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

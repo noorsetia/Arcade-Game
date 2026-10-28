@@ -1,0 +1,313 @@
+{
+  "users": {},
+  "sessions": [
+    {
+      "id": "sess_1793103005058",
+      "username": "Cyber Pilot",
+      "gameId": "neon-maze",
+      "gameName": "neon-maze",
+      "score": 850,
+      "previousBest": 0,
+      "isNewBest": false,
+      "startedAt": "2026-10-27T12:10:05.058Z",
+      "completedAt": "2026-10-27T12:10:05.058Z",
+      "durationSeconds": 70,
+      "difficulty": "Standard",
+      "mode": "Single Player",
+      "metrics": {},
+      "xpAwarded": 50,
+      "isCompetitive": true
+    }
+  ],
+  "leaderboards": {
+    "2048": [
+      {
+        "rank": 1,
+        "username": "Euler_Math",
+        "avatar": "▦",
+        "gameId": "2048",
+        "score": 2048,
+        "tier": "Tile Emperor",
+        "date": "2026-10-25"
+      },
+      {
+        "rank": 2,
+        "username": "Cyber_Pilot",
+        "avatar": "⚡",
+        "gameId": "2048",
+        "score": 1024,
+        "tier": "Grand Strategist",
+        "date": "Today",
+        "isCurrentPlayer": true
+      }
+    ],
+    "all": [
+      {
+        "rank": 1,
+        "username": "Ada_Lovelace",
+        "avatar": "👑",
+        "gameId": "all",
+        "score": 3850,
+        "tier": "Apex Legend",
+        "date": "2026-10-26"
+      },
+      {
+        "rank": 2,
+        "username": "K_Thompson",
+        "avatar": "💻",
+        "gameId": "all",
+        "score": 3420,
+        "tier": "Master Mind",
+        "date": "2026-10-26"
+      },
+      {
+        "rank": 3,
+        "username": "Linus_T",
+        "avatar": "🐧",
+        "gameId": "all",
+        "score": 3100,
+        "tier": "Grandmaster",
+        "date": "2026-10-27"
+      },
+      {
+        "rank": 4,
+        "username": "Turing_Enigma",
+        "avatar": "🧠",
+        "gameId": "all",
+        "score": 2890,
+        "tier": "Grandmaster",
+        "date": "2026-10-27"
+      },
+      {
+        "rank": 5,
+        "username": "Grace_Hopper",
+        "avatar": "🦋",
+        "gameId": "all",
+        "score": 2640,
+        "tier": "Cyber Elite",
+        "date": "2026-10-25"
+      },
+      {
+        "rank": 6,
+        "username": "Cyber_Pilot",
+        "avatar": "⚡",
+        "gameId": "all",
+        "score": 2450,
+        "tier": "Cyber Elite",
+        "date": "Today",
+        "isCurrentPlayer": true
+      },
+      {
+        "rank": 7,
+        "username": "V_Cerf",
+        "avatar": "🌐",
+        "gameId": "all",
+        "score": 2180,
+        "tier": "Senior Dev",
+        "date": "2026-10-26"
+      },
+      {
+        "rank": 8,
+        "username": "Satoshi_N",
+        "avatar": "⛓️",
+        "gameId": "all",
+        "score": 1950,
+        "tier": "Senior Dev",
+        "date": "2026-10-24"
+      }
+    ],
+    "snake": [
+      {
+        "rank": 1,
+        "username": "PythonMaster",
+        "avatar": "🐍",
+        "gameId": "snake",
+        "score": 340,
+        "tier": "Legend",
+        "date": "2026-10-26"
+      },
+      {
+        "rank": 2,
+        "username": "Linus_T",
+        "avatar": "🐧",
+        "gameId": "snake",
+        "score": 280,
+        "tier": "Grandmaster",
+        "date": "2026-10-27"
+      },
+      {
+        "rank": 3,
+        "username": "Cyber_Pilot",
+        "avatar": "⚡",
+        "gameId": "snake",
+        "score": 210,
+        "tier": "Elite",
+        "date": "Today",
+        "isCurrentPlayer": true
+      },
+      {
+        "rank": 4,
+        "username": "RetroGamer99",
+        "avatar": "👾",
+        "gameId": "snake",
+        "score": 180,
+        "tier": "Pro",
+        "date": "2026-10-25"
+      }
+    ],
+    "space-shooter": [
+      {
+        "rank": 1,
+        "username": "StarLord_X",
+        "avatar": "🚀",
+        "gameId": "space-shooter",
+        "score": 480,
+        "tier": "Ace",
+        "date": "2026-10-26"
+      },
+      {
+        "rank": 2,
+        "username": "Cyber_Pilot",
+        "avatar": "⚡",
+        "gameId": "space-shooter",
+        "score": 390,
+        "tier": "Ace",
+        "date": "Today",
+        "isCurrentPlayer": true
+      },
+      {
+        "rank": 3,
+        "username": "Valkyrie",
+        "avatar": "🛸",
+        "gameId": "space-shooter",
+        "score": 320,
+        "tier": "Veteran",
+        "date": "2026-10-25"
+      }
+    ],
+    "reaction-test": [
+      {
+        "rank": 1,
+        "username": "Synapse_God",
+        "avatar": "⚡",
+        "gameId": "reaction-test",
+        "score": 168,
+        "tier": "Sub-200ms",
+        "date": "2026-10-26"
+      },
+      {
+        "rank": 2,
+        "username": "Cyber_Pilot",
+        "avatar": "⚡",
+        "gameId": "reaction-test",
+        "score": 184,
+        "tier": "Sub-200ms",
+        "date": "Today",
+        "isCurrentPlayer": true
+      },
+      {
+        "rank": 3,
+        "username": "F1_Driver",
+        "avatar": "🏎️",
+        "gameId": "reaction-test",
+        "score": 196,
+        "tier": "Sub-200ms",
+        "date": "2026-10-27"
+      }
+    ],
+    "neon-maze": [
+      {
+        "rank": 1,
+        "username": "MazeRunner",
+        "avatar": "🧭",
+        "gameId": "neon-maze",
+        "score": 1420,
+        "tier": "Sector Breaker",
+        "date": "2026-10-27"
+      },
+      {
+        "rank": 2,
+        "username": "Cyber_Pilot",
+        "avatar": "⚡",
+        "gameId": "neon-maze",
+        "score": 980,
+        "tier": "Pathfinder",
+        "date": "Today",
+        "isCurrentPlayer": true
+      },
+      {
+        "rank": 3,
+        "username": "Cyber Pilot",
+        "avatar": "⚡",
+        "gameId": "neon-maze",
+        "score": 850,
+        "tier": "Pro",
+        "date": "Today",
+        "isCurrentPlayer": true
+      }
+    ],
+    "boss-rush": [
+      {
+        "rank": 1,
+        "username": "Valkyrie",
+        "avatar": "💀",
+        "gameId": "boss-rush",
+        "score": 4800,
+        "tier": "Overlord Slayer",
+        "date": "2026-10-27"
+      },
+      {
+        "rank": 2,
+        "username": "Cyber_Pilot",
+        "avatar": "⚡",
+        "gameId": "boss-rush",
+        "score": 3200,
+        "tier": "Champion",
+        "date": "Today",
+        "isCurrentPlayer": true
+      }
+    ]
+  },
+  "activities": [
+    {
+      "id": "act_1793103005058",
+      "username": "Cyber Pilot",
+      "avatar": "⚡",
+      "action": "Finished Mission",
+      "details": "850 pts in neon-maze",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "act_1",
+      "username": "Cyber_Pilot",
+      "avatar": "⚡",
+      "action": "Set Personal Best",
+      "details": "Scored 980 in Neon Maze",
+      "timestamp": "3 mins ago"
+    },
+    {
+      "id": "act_2",
+      "username": "Ada_Lovelace",
+      "avatar": "👑",
+      "action": "Completed Daily Arena",
+      "details": "Perfect 3/3 Gauntlet Score",
+      "timestamp": "15 mins ago"
+    },
+    {
+      "id": "act_3",
+      "username": "Linus_T",
+      "avatar": "🐧",
+      "action": "Achievement Unlocked",
+      "details": "Unlocked \"Mainframe Ghost\"",
+      "timestamp": "38 mins ago"
+    },
+    {
+      "id": "act_4",
+      "username": "Cyber_Pilot",
+      "avatar": "⚡",
+      "action": "Rank Promotion",
+      "details": "Promoted to Level 4 (Cyber Elite)",
+      "timestamp": "1 hour ago"
+    }
+  ]
+}
